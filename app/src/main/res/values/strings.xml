@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="num1">Number1</string>
+    <string name="num2">Number2</string>
+    <string name="btnOK">OK</string>
+    <string name="plus">+</string>
+</resources>
